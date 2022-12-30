@@ -1,0 +1,78 @@
+  /*
+    Flaticon icon font: Flaticon
+    Creation date: 19/08/2017 07:07
+    */
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.html");
+  src: url("../fonts/Flaticond41dd41d.html?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon-2.html") format("woff"),
+       url("../fonts/Flaticon-3.html") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+        font-size: 20px;
+font-style: normal;
+margin-left: 20px;
+}
+
+.flaticon-writing:before { content: "\f100"; }
+.flaticon-alphabet:before { content: "\f101"; }
+.flaticon-school-3:before { content: "\f102"; }
+.flaticon-computer-3:before { content: "\f103"; }
+.flaticon-nature:before { content: "\f104"; }
+.flaticon-tool-1:before { content: "\f105"; }
+.flaticon-people:before { content: "\f106"; }
+.flaticon-education:before { content: "\f107"; }
+.flaticon-business:before { content: "\f108"; }
+.flaticon-computer-2:before { content: "\f109"; }
+.flaticon-science-1:before { content: "\f10a"; }
+.flaticon-language-1:before { content: "\f10b"; }
+.flaticon-search-1:before { content: "\f10c"; }
+.flaticon-book-4:before { content: "\f10d"; }
+.flaticon-language:before { content: "\f10e"; }
+.flaticon-computer-1:before { content: "\f10f"; }
+.flaticon-wrench:before { content: "\f110"; }
+.flaticon-book-3:before { content: "\f111"; }
+.flaticon-interface:before { content: "\f112"; }
+.flaticon-medical:before { content: "\f113"; }
+.flaticon-briefcase:before { content: "\f114"; }
+.flaticon-school:before { content: "\f115"; }
+.flaticon-search:before { content: "\f116"; }
+.flaticon-book-2:before { content: "\f117"; }
+.flaticon-school-2:before { content: "\f118"; }
+.flaticon-school-1:before { content: "\f119"; }
+.flaticon-pen:before { content: "\f11a"; }
+.flaticon-avatar:before { content: "\f11b"; }
+.flaticon-computer:before { content: "\f11c"; }
+.flaticon-book-1:before { content: "\f11d"; }
+.flaticon-meeting:before { content: "\f11e"; }
+.flaticon-open-magazine:before { content: "\f11f"; }
+.flaticon-mortarboard:before { content: "\f120"; }
+.flaticon-creativity:before { content: "\f121"; }
+.flaticon-diploma:before { content: "\f122"; }
+.flaticon-open-book:before { content: "\f123"; }
+.flaticon-science:before { content: "\f124"; }
+.flaticon-atoms:before { content: "\f125"; }
+.flaticon-dna:before { content: "\f126"; }
+.flaticon-atomic:before { content: "\f127"; }
+.flaticon-mathematics-1:before { content: "\f128"; }
+.flaticon-mathematics:before { content: "\f129"; }
+.flaticon-technology:before { content: "\f12a"; }
+.flaticon-book:before { content: "\f12b"; }
+.flaticon-calculator:before { content: "\f12c"; }
+.flaticon-tool:before { content: "\f12d"; }
+.flaticon-signs:before { content: "\f12e"; }
